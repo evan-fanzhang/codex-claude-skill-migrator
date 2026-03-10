@@ -1,6 +1,7 @@
 # codex-claude-skill-migrator
 
 Beginner guide / 新手请看陪跑指南: [docs/codex-claude-skill-migrator-beginner-guide-v1.1.0.md](docs/codex-claude-skill-migrator-beginner-guide-v1.1.0.md)
+Changelog / 更新记录: [CHANGELOG.md](CHANGELOG.md)
 
 ## English
 
