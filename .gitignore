@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local logs and runtime outputs
+logs/worklog_*.md
+*.log
+
+# Temporary files
+*.tmp
+*.bak
